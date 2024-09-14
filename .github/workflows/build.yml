@@ -8,6 +8,6 @@ permissions:
 jobs:
   build:
     name: Build
-    uses: rmk-firmware/rmk/.github/workflows/build.yml@master
+    uses: orbit-firmware/orbit/.github/workflows/build.yml@master
     with:
       keyboard: feb42
